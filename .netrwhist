@@ -1,0 +1,8 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =6
+let g:netrw_dirhist_1='/Users/jeremy/Source/fastpencil/app/models'
+let g:netrw_dirhist_2='/Users/jeremy/Source/fastpencil/app/models/forum'
+let g:netrw_dirhist_3='/Users/jeremy/Source/fastpencil/app/models'
+let g:netrw_dirhist_4='/Users/jeremy/Source/fastpencil/app/models/block'
+let g:netrw_dirhist_5='/Volumes/Source/fastpencil'
+let g:netrw_dirhist_6='/Users/jeremy/Work/aws-s3-0.6.2'
